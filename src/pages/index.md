@@ -41,9 +41,9 @@ educations:
 - education: Université de djibouti
   period: 2018-2021
   description: Licence en informatique
-- education: London Business School
-  period: 2013 - 2015
-  description: Master Degree
+- education: baccalauréat
+  period: 2015 - 2018
+  description: bachelier de serie scientifique
 - education: School of Coding
   period: 2010 - 2013
   description: Bachelor Degree
