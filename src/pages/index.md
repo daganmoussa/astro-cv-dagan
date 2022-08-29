@@ -13,8 +13,8 @@ skills:
   percentage: 80
 - name: Illustrator
   percentage: 75
-- name: Media
-  percentage: 50
+- name: devellopement web
+  percentage: 80
 languages:
 - language: English
   percentage: 100
