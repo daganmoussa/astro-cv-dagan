@@ -18,8 +18,8 @@ skills:
 languages:
 - language: française
   percentage: 100
-- language: Spanish
-  percentage: 55
+- language: Arabe
+  percentage: 90
 - language: German
   percentage: 25
 experiences:
