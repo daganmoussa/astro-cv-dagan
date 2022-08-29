@@ -41,9 +41,6 @@ educations:
 - education: Université de djibouti
   period: 2018-2021
   description: Licence en informatique
-- education: Formation infographie
-  period: 02 Fév-02 Mars
-  description: suivis de formation en infographie dans femmeticdjibouti
 - education: Baccalauréat
   period: 2015 - 2018
   description: bachelier de serie scientifique
@@ -64,6 +61,9 @@ social:
 - icon: fa-linkedin
   link: https://www.linkedin.com
 formations:
+- formation: Formation infographie
+  periode: 02 Fév-02 Mars
+  description: suivis de formation en infographie dans femmeticdjibouti
 - formation: Formation civic thec
   description: suivis de formation base sur l'apprentisage de la mise en place d'un
     projet innovent dans femmeticdjibouti
