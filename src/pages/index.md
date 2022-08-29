@@ -8,7 +8,7 @@ email: ex@mail.com
 telephone: "1224435534"
 skills:
 - name: Adobe Photoshop
-  percentage: 90
+  percentage: 70
 - name: Administration de base données
   percentage: 80
 - name: Illustrator
