@@ -20,8 +20,8 @@ languages:
   percentage: 100
 - language: Arabe
   percentage: 90
-- language: German
-  percentage: 25
+- language: Anglais
+  percentage: 55
 experiences:
 - experience: Front End Developer / w3schools.com
   period: Jan 2015
