@@ -38,9 +38,9 @@ experiences:
   period: Jun 2010 - Mar 2012
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 educations:
-- education: W3Schools.com
-  period: Forever
-  description: Web Development! All I need to know in one place
+- education: Université de djibouti
+  period: 2018-2021
+  description: Licence en informatique
 - education: London Business School
   period: 2013 - 2015
   description: Master Degree
