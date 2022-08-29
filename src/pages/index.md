@@ -12,7 +12,7 @@ skills:
 - name: Administration de base données
   percentage: 80
 - name: Illustrator
-  percentage: 75
+  percentage: 55
 - name: devellopement web
   percentage: 80
 languages:
