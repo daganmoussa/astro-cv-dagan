@@ -42,7 +42,7 @@ educations:
   period: Août 2022
   description: suivis de formation base sur l'apprentisage de la mise en place d'un
     projet innovent dans femmeticdjibouti
-- education: formation infographie
+- education: Formation infographie
   period: 02 Fév-02 Mars
   description: suivis de formation en infographie dans femmeticdjibouti
 - education: Université de djibouti
