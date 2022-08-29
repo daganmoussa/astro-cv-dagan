@@ -9,7 +9,7 @@ telephone: "1224435534"
 skills:
 - name: Adobe Photoshop
   percentage: 90
-- name: Photography
+- name: Administration de base données
   percentage: 80
 - name: Illustrator
   percentage: 75
