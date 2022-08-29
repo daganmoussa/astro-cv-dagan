@@ -44,9 +44,9 @@ educations:
 - education: baccalauréat
   period: 2015 - 2018
   description: bachelier de serie scientifique
-- education: School of Coding
-  period: 2010 - 2013
-  description: Bachelor Degree
+- education: collége d'amboulie
+  period: 2012 - 2015
+  description: reussie l'epreuve de bef
 social:
 - icon: fa-facebook-official
   link: https://www.facebook.com
