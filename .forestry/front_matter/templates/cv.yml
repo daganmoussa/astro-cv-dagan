@@ -80,36 +80,6 @@ fields:
     max: 
     labelField: 
   label: Languages
-- name: experiences
-  type: field_group_list
-  fields:
-  - name: experience
-    type: text
-    config:
-      required: false
-    label: Experience
-  - name: period
-    type: text
-    config:
-      required: false
-    label: Period
-  - name: current
-    type: boolean
-    label: Current
-  - name: description
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Description
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Work Experience
 - name: educations
   type: field_group_list
   fields:
