@@ -127,3 +127,26 @@ fields:
     max: 
     labelField: 
   label: Social
+- name: formations
+  type: field_group_list
+  fields:
+  - name: formation
+    type: text
+    config:
+      required: false
+    label: formation
+  - name: periode
+    type: text
+    config:
+      required: false
+    label: periode
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Formations
