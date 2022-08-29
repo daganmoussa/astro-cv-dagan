@@ -51,7 +51,7 @@ educations:
 - education: Baccalauréat
   period: 2015 - 2018
   description: bachelier de serie scientifique
-- education: collége d'amboulie
+- education: Collége d'amboulie
   period: 2012 - 2015
   description: reussie l'epreuve de bef
 social:
