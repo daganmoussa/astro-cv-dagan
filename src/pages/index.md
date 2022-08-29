@@ -16,7 +16,7 @@ skills:
 - name: devellopement web
   percentage: 80
 languages:
-- language: English
+- language: française
   percentage: 100
 - language: Spanish
   percentage: 55
