@@ -38,6 +38,10 @@ experiences:
   period: Jun 2010 - Mar 2012
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 educations:
+- education: Formation civic thec
+  period: Août 2022
+  description: suivis de formation base sur l'apprentisage de la mise en place d'un
+    projet innovent dans femmeticdjibouti
 - education: formation infographie
   period: 02 Fév-02 Mars
   description: suivis de formation en infographie dans femmeticdjibouti
