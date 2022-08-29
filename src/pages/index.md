@@ -67,8 +67,9 @@ formations:
 - formation: Formation civic thec
   description: suivis de formation base sur l'apprentisage de la mise en place d'un
     projet innovent dans femmeticdjibouti
+  periode: Août 2022
 - formation: 'formation en administration des données '
-  periode: août 2022
+  periode: Août 2022
   description: je suivis cette formation en ligner sur le site khan acedemie
 
 ---
