@@ -38,9 +38,9 @@ experiences:
   period: Jun 2010 - Mar 2012
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 educations:
-- education: formation en photoshop
+- education: formation infographie
   period: 02 Fév-02 Mars
-  description: suivis de formation infographie dans femmeticdjibouti
+  description: suivis de formation en infographie dans femmeticdjibouti
 - education: Université de djibouti
   period: 2018-2021
   description: Licence en informatique
