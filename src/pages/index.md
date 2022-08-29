@@ -48,7 +48,7 @@ educations:
 - education: Université de djibouti
   period: 2018-2021
   description: Licence en informatique
-- education: baccalauréat
+- education: Baccalauréat
   period: 2015 - 2018
   description: bachelier de serie scientifique
 - education: collége d'amboulie
