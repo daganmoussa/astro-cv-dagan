@@ -70,6 +70,10 @@ social:
   link: https://twitter.com
 - icon: fa-linkedin
   link: https://www.linkedin.com
+formations:
+- formation: 'formation en administration des données '
+  periode: aout 2022
+  description: je suivis cette formation en ligner sur le site khan acedemie
 
 ---
 # hello
