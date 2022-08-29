@@ -38,9 +38,6 @@ experiences:
   period: Jun 2010 - Mar 2012
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 educations:
-- education: 'formation en administration des données '
-  period: 'août 2022 '
-  description: 'je suivis cette formation en ligne sur le site khan acedemie '
 - education: Formation civic thec
   period: Août 2022
   description: suivis de formation base sur l'apprentisage de la mise en place d'un
@@ -72,7 +69,7 @@ social:
   link: https://www.linkedin.com
 formations:
 - formation: 'formation en administration des données '
-  periode: aout 2022
+  periode: août 2022
   description: je suivis cette formation en ligner sur le site khan acedemie
 
 ---
